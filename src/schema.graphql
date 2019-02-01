@@ -1,0 +1,6 @@
+## ========= Query Imports
+# import Query.user, Query.users, Query.game, Query.games from "generated/prisma.graphql"
+
+## ========= Mutation Imports
+# import Mutation.createUser, Mutation.updateUser, Mutation.deleteUser, Mutation.createGame, Mutation.updateGame, Mutation.deleteGame from "generated/prisma.graphql"
+
